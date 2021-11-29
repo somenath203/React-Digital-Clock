@@ -19,6 +19,9 @@ const Clock = () => {
   return (
     <>
       <h1>{ctime}</h1>
+      <br />
+      <br />
+      <footer>Made by Somenath Choudhury</footer>
     </>
   );
 };
